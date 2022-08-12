@@ -1,0 +1,12 @@
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/obj/Debug/net6.0/LandingPlatform.csproj.AssemblyReference.cache
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/obj/Debug/net6.0/LandingPlatform.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/obj/Debug/net6.0/LandingPlatform.AssemblyInfoInputs.cache
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/obj/Debug/net6.0/LandingPlatform.AssemblyInfo.cs
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/obj/Debug/net6.0/LandingPlatform.csproj.CoreCompileInputs.cache
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/bin/Debug/net6.0/LandingPlatform.deps.json
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/bin/Debug/net6.0/LandingPlatform.dll
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/bin/Debug/net6.0/LandingPlatform.pdb
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/obj/Debug/net6.0/LandingPlatform.dll
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/obj/Debug/net6.0/refint/LandingPlatform.dll
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/obj/Debug/net6.0/LandingPlatform.pdb
+/Users/amonra/Documents/Zartis/RocketLanding/LandingPlatform/obj/Debug/net6.0/ref/LandingPlatform.dll
